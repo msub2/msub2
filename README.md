@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Whoops, my cool visuals here seem to be broken at the time of writing this. I'll fix that soon! For now, just know I'm a guy that likes tinkering out mainly with JS/TS, Rust, Python, and a bit of Ocaml in the domains of game development, XR, and the web.
+Whoops, my cool visuals here seem to be broken at the time of writing this. I'll fix that soon! For now, just know I'm a guy that likes tinkering mainly with JS/TS, Rust, Python, and a bit of Ocaml in the domains of game development, XR, and the web.
 
 ![msub2's github stats](https://github-readme-stats.vercel.app/api?username=msub2&show_icons=true&theme=dark)
 
